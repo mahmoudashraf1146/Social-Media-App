@@ -1,1 +1,4 @@
-# Social-Media-App
+- this project represents a small social media app in which i can see all posts of others in my home page and create my own posts after registering and make sure that i'm logged in. i also can edit or delete my posts from my profile page which contains all my posts along with all comments on them
+- this app was made for practicing HTML, CSS,BootStrap, and some features in JavaScript like getting to work with Apis using Axios library with get, post and delete commands.
+- some of the issues i've faced is that the posts were so many so i have searched for a function that does some kind of pagination and split all data into pages, each page got some posts to be shown while scrolling down.
+- what i've learnt the most is to deal with Apis requests through axios library and dealing with the response through then and catch methods.
